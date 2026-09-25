@@ -1,0 +1,2 @@
+# This directory stores raw MIT-BIH ECG records downloaded from PhysioNet.
+# Files are excluded from version control (.gitignore).
